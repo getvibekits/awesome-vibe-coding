@@ -706,6 +706,7 @@ Files and templates that help AI understand your codebase.
 | [cursor-rules](https://github.com/PatrickJS/awesome-cursorrules) | Collection | Curated .cursorrules files for different frameworks and languages. |
 | [llms.txt](https://llmstxt.org/) | Spec | Standard for making websites AI-friendly. Provide structured context to LLMs visiting your site. |
 | [Taskade Developer Docs](https://www.taskade.com/docs) | Docs | Official API, MCP, and Genesis developer documentation. |
+| [Vibe Coding Rules](https://github.com/getvibekits/vibe-coding-rules) | Collection | Free, MIT-licensed AGENTS.md, CLAUDE.md and Cursor rules files for 20 beginner project types, each pairing shared working rules with six stack-specific ones. |
 
 ### Prompt Templates
 
